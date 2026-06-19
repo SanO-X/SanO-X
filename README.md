@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanham Murshudov
 
-<!--
-**SanO-X/SanO-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior C# / Unity Developer and IT graduate.
 
-Here are some ideas to get you started:
+I develop gameplay systems in Unity using C#, with a focus on 2D games, combat mechanics, enemy AI, player control, UI logic and interactive game worlds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Main Project
+
+### Resonance
+
+**Resonance** is a 2D Top-Down Action/RPG prototype built with Unity, C# and Universal Render Pipeline.
+
+The project includes:
+
+- player movement;
+- melee combat;
+- enemy AI;
+- health system;
+- UI health bar;
+- death screen;
+- scene restart logic;
+- dynamic World State System.
+
+The main feature of the project is a World State System that changes the visual atmosphere of the world based on player behavior.
+
+## 🛠 Tech Stack
+
+- C#
+- Unity
+- Universal Render Pipeline
+- 2D Game Development
+- Gameplay Systems
+- Enemy AI
+- UI Logic
+- Git / GitHub
+
+## 📌 Current Focus
+
+I am currently looking for a Junior Unity / C# Developer position and continuing to improve my skills through practical game development projects.
+
+## 🔗 Portfolio Project
+
+- [Resonance](https://github.com/SanO-X/resonance)
